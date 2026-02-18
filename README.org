@@ -4,6 +4,6 @@ A library for dealing with Windows bitmaps (BMP, DIB, ICO, CUR)
 
 |---------+--------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/cl-bmp.git |
-| commit  | 0000000                                    |
+| commit  | c3547cb                                    |
 | systems | cl-bmp                                     |
 |---------+--------------------------------------------|
